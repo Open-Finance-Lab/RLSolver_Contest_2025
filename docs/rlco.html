@@ -2,73 +2,132 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>RL for Combinatorial Optimization - CFP</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RL for Combinatorial Optimization - RLSolver 2025</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+    .navbar-dark {
+      background-color: #1f2937;
+    }
+    .hero {
+      background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_York_City_at_night_HDR.jpg/1200px-New_York_City_at_night_HDR.jpg') no-repeat center center;
+      background-size: cover;
+      height: 280px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 15px 30px;
+      border-radius: 10px;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
 </head>
 <body>
 
-  <div class="top-image">
-    <div class="overlay">
-      <h1>Special Track: RL for Combinatorial Optimization</h1>
-      <h2>RLSolver Competition 2025</h2>
-    </div>
-  </div>
-
-  <div class="nav-bar">
-    <a href="index.markdown">Home</a>
-    <a href="rlco.html" class="active">Call for Papers</a>
-    <a href="submission.markdown">Submission</a>
-    <a href="organizers.markdown">Organizers</a>
-  </div>
-
-  <div class="content-wrapper">
-    <div class="main-content">
-      <h2>Call for Papers</h2>
-      <p>
-        The Special Track on <strong>Reinforcement Learning for Combinatorial Optimizations</strong> invites researchers, academics, and industry professionals to submit original papers on RL technologies for CO problems, which are generally NP-Hard in operations research (OR).
-      </p>
-
-      <h3>Topics of Interest</h3>
-      <ul>
-        <li>RL & Machine Learning in the distribution-wise scenario</li>
-        <li>Typical CO: graph maxcut, knapsack, number partitioning</li>
-        <li>Transportation: VRP, scheduling, path planning, ridesharing</li>
-        <li>Communication: RL-enabled 5G/6G, cognitive radio, SDN</li>
-        <li>Edge Computing & IoT: edge intelligence, IoT security, RL for IoV</li>
-        <li>Emerging: quantum AI, green AI, AI ethics, future RL in science</li>
-      </ul>
-
-      <h3>Submission Guidelines</h3>
-      <p>Please submit your paper via the <a href="https://www.cloud-conf.net/datasec/2025/submission.html" target="_blank">official portal</a>.</p>
-
-      <h3>Organization Committee</h3>
-      <ul>
-        <li><strong>General Chairs:</strong> Ming Zhu (UCAS), Xiao-Yang Liu (Columbia University)</li>
-        <li><strong>Program Chair:</strong> To be announced</li>
-        <li><strong>Technical Program Committee:</strong> Keyi Wang (Columbia University)</li>
-      </ul>
-    </div>
-
-    <div class="sidebar">
-      <div class="card">
-        <h3>Important Dates</h3>
-        <ul>
-          <li><strong>Submission:</strong> Aug 1, 2025</li>
-          <li><strong>Notification:</strong> Aug 8, 2025</li>
-          <li><strong>Registration:</strong> Aug 15, 2025</li>
-          <li><strong>Camera Ready:</strong> Aug 15, 2025</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <h3>Useful Links</h3>
-        <ul>
-          <li><a href="https://www.cloud-conf.net/datasec/2025/submission.html">Submission Site</a></li>
-          <li><a href="rlco.html">Call for Papers</a></li>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">RLSolver 2025</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#">Call for Papers</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Submission</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Organizers</a></li>
         </ul>
       </div>
     </div>
+  </nav>
+
+  <!-- Hero section -->
+  <div class="hero">
+    <h1>Special Track: RL for Combinatorial Optimization</h1>
   </div>
 
+  <!-- Content -->
+  <div class="container mt-5">
+    <div class="row">
+      <!-- Left: Main Content -->
+      <div class="col-md-8">
+        <div class="card">
+          <div class="card-body">
+            <h3>Call for Papers</h3>
+            <p><strong>Special Track: Reinforcement Learning for Combinatorial Optimizations</strong></p>
+            <p>
+              The Special Track: Reinforcement Learning for Combinatorial Optimizations invites researchers, academics, and industry professionals to submit original papers on Reinforcement Learning (RL) technologies for Combinatorial Optimizations (CO). CO problems in operations research (OR) areas are generally NP-Hard. This Special Track aims to showcase cutting-edge research, foster collaboration, and address challenges in CO problems using RL, especially in the distribution-wise scenario.
+            </p>
+            <p>
+              The Special Track will explore the future of RL-driven operations research and contribute to innovative solutions for a connected world with special interest in but not limited to:
+            </p>
+            <ul>
+              <li>RL & Machine Learning especially in the distribution-wise scenario: Deep Learning, and AI for CO/OR.</li>
+              <li>Typical CO in OR: graph maxcut problem, knapsack problem, number partitioning problem, etc.</li>
+              <li>Transportation: vehicle routing problem (VRP), vehicle scheduling problem, path planning problem in transportation, ridesharing, etc.</li>
+              <li>Communication Systems: RL-enabled 5G/6G, cognitive radio, SDN.</li>
+              <li>Edge Computing & IoT: Edge intelligence, IoT security, real-time RL applications for internet of vehicles (IoV), IoT.</li>
+              <li>Emerging Trends: Quantum AI, green AI, AI ethics, future RL research for OR or science.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h4>Organization Committee</h4>
+            <ul>
+              <li><strong>General Chair</strong><br>
+              Ming Zhu, University of Chinese Academy of Sciences, China<br>
+              Xiao-Yang Liu, Columbia University, US</li>
+              <li><strong>Program Chair</strong><br>
+              (To be announced)</li>
+              <li><strong>Technical Program Committee</strong><br>
+              Keyi Wang, Columbia University</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: Sidebar -->
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-body">
+            <h5>Important Dates</h5>
+            <ul>
+              <li><strong>Paper submission:</strong> August 1, 2025</li>
+              <li><strong>Notification:</strong> August 8, 2025</li>
+              <li><strong>Registration:</strong> August 15, 2025</li>
+              <li><strong>Camera Ready:</strong> August 15, 2025</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h5>Submission Guidelines</h5>
+            <a href="https://www.cloud-conf.net/datasec/2025/submission.html" target="_blank" class="btn btn-outline-primary btn-sm">Submission Link</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
