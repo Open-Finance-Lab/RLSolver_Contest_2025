@@ -90,10 +90,10 @@ Minimize the total system energy across random initial configurations.
 
 
 ## Contact
-Contact email: 
+Contact email: rlsolvercompetition@outlook.com
 
 Contestants can communicate any questions on 
-* [Discord](TBD).
+* [Discord](https://discord.gg/RNYsEwcXVj).
 * WeChat Group:
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: left; gap: 1em; padding: 2em">
 </div>

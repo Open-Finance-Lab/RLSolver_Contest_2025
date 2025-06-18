@@ -17,16 +17,16 @@ weight: 5
 **Program Chair**  
 | Photo                | Biography              |
 |----------------------|-------------------|
-| ![Zhiyuan Wang](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Zhiyuan Wang**, Rensselaer Polytechnic Institute|
-| ![Holden Mac Entee](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Holden Mac Entee**, Rensselaer Polytechnic Institute|
-| ![Levy Lin](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Levy Lin**, Rensselaer Polytechnic Institute|
+| ![Zhiyuan Wang](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Zhiyuan Wang**, Rensselaer Polytechnic Institute|
+| ![Holden Mac Entee](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Holden Mac Entee**, Rensselaer Polytechnic Institute|
+| ![Levy Lin](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Levy Lin**, Rensselaer Polytechnic Institute|
 
 **Technical Program Committee**  
 | Photo                | Biography              |
 |----------------------|-------------------|
-| ![Chunlin Feng](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Chunlin Feng**, Rensselaer Polytechnic Institute|
-| ![Luke Zhao](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Luke Zhao**, Rensselaer Polytechnic Institute|
-| ![Yupeng Chao](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/?raw=true)      | **Yupeng Chao**, Stevens Institute of Technology|
+| ![Chunlin Feng](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Chunlin Feng**, Rensselaer Polytechnic Institute|
+| ![Luke Zhao](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Luke Zhao**, Rensselaer Polytechnic Institute|
+| ![Yupeng Chao](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Yupeng Chao**, Stevens Institute of Technology|
 | ![Linrui Zhao](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/Linrui Zhao.jpg?raw=true)      | **Linrui Zhao**, Sichuan University|
 
 
