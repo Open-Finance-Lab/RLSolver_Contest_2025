@@ -18,11 +18,6 @@ weight: 1
       <img style="width: 80%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/Wilmott.jpg?raw=true" alt="Wilmott Logo">
   </a>
 
-  <!-- PyQuant News Logo -->
-  <a href="https://www.pyquantnews.com/" target="_blank">
-      <img style="width: 80%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/pyquantnews_new.png?raw=true" alt="PyQuant News Logo">
-  </a>
-
   <!-- Paris Machine Learning Logo (Same size as PyQuant News) -->
   <a href="http://parismlgroup.org/" target="_blank">
       <img style="width: 120%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/paris_machine_learning_new.png?raw=true" alt="Paris Machine Learning Logo">
@@ -31,7 +26,7 @@ weight: 1
 
 ### Thanks to the AI4Finance Foundation Open-Source Community support。
 
-#### Please find the starter kit [here](https://github.com/Open-Finance-Lab/FinRL_Contest_2025/tree/main)!
+#### Please find the starter kit [here](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025)!
 
 ## Introduction
 
@@ -61,8 +56,7 @@ Develop reinforcement learning agents to solve Max-Cut problems on large graphs.
 
 #### Dataset
 
-Synthetic and real-world graphs:
-- **GSet dataset**
+Synthetic graphs generated from the following distributions:
 - **BA (Barabási–Albert)**
 - **ER (Erdős–Rényi)**
 - **PL (Power-Law)**
@@ -99,7 +93,7 @@ Minimize the total system energy across random initial configurations.
 Contact email: 
 
 Contestants can communicate any questions on 
-* [Discord](https://discord.gg/RNYsEwcXVj).
+* [Discord](TBD).
 * WeChat Group:
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: left; gap: 1em; padding: 2em">
 </div>
