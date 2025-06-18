@@ -61,4 +61,4 @@ The judges will independently rate the following aspects, each accounting for **
 * Organization and readability  
 * Technical soundness  
 
-Note that since the paper submission will follow the timeline on the [Special Track: TBDand the models can be submitted later than the paper, **the discussion of results and performance will not be counted** in the paper assessment.
+Note that since the paper submission will follow the timeline on the [Special Track: Reinforcement Learning for Combinatorial Optimizations(TBD) and the models can be submitted later than the paper, **the discussion of results and performance will not be counted** in the paper assessment.
