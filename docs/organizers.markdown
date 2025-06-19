@@ -21,6 +21,7 @@ weight: 5
 | ![Holden Mac Entee](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Holden Mac Entee**, Rensselaer Polytechnic Institute|
 | ![Levy Lin](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Levy Lin**, Rensselaer Polytechnic Institute|
 
+
 **Technical Program Committee**  
 | Photo                | Biography              |
 |----------------------|-------------------|

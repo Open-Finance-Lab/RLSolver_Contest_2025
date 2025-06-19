@@ -44,3 +44,4 @@ Submissions are assessed in two categories:
 - All methods run on the same standardized server under fixed resource limits.  
 - Final rankings may combine time and objective metrics with track-specific weights.  
 
+
