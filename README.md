@@ -1,6 +1,6 @@
-# RLSolver Competition 2025
+# RLSolver Contest 2025
 
-This repository contains the website content, starter materials, and track information for the **RLSolver Competition 2025**.
+This repository contains the website content, starter materials, and track information for the **RLSolver Contest 2025**.
 
 ## Outline
   - [Overview](#overview)
@@ -44,7 +44,7 @@ The special track is designed to foster collaboration between the optimization, 
 
 ## Organizers
 
-See [Organizers Page](https://open-finance-lab.github.io/RLSolver_Competition_2025/organizers)  
+See [Organizers Page](https://open-finance-lab.github.io/RLSolver_Contest_2025/organizers)  
 (Organizers list and affiliations are available on the website.)
 
 ## Resources

@@ -38,9 +38,11 @@ Submissions are assessed in two categories:
 | Distribution-wise RL      | Training + Inference     | Objective Value     |
 | Conventional (non-RL)     | Running Time only        | Objective Value     |
 
+
 **Notes:**  
 - **Objective Value** is defined by the problem (higher is better unless stated otherwise).  
 - **Inference Time** is measured on GPU (when applicable) and averaged over all test cases.  
 - All methods run on the same standardized server under fixed resource limits.  
 - Final rankings may combine time and objective metrics with track-specific weights.  
+
 
