@@ -4,7 +4,7 @@ title: Resources
 permalink: /4-resources/
 weight: 4
 ---
-# RLSolver Competition
+# RLSolver Contest
 
 ## RLSolver Documentation
 

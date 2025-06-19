@@ -90,7 +90,7 @@ Minimize the total system energy across random initial configurations.
 
 
 ## Contact
-Contact email: rlsolvercompetition@outlook.com
+Contact email: rlsolvercontest@outlook.com
 
 Contestants can communicate any questions on 
 * [Discord](https://discord.gg/RNYsEwcXVj).

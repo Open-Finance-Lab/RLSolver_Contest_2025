@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RLSolver Competition 2025
-email: rlsolvercompetition@outlook.com
+title: RLSolver Contest 2025
+email: rlsolvercontest@outlook.com
 description: >-
-  Official website for the RLSolver Competition 2025, a competition focused on graph-based combinatorial optimization using reinforcement learning and conventional methods.
+  Official website for the RLSolver Contest 2025, a contest focused on graph-based combinatorial optimization using reinforcement learning and conventional methods.
 baseurl: "/RLSolver_Competition_2025" # 
 url: "https://open-finance-lab.github.io" #
 
