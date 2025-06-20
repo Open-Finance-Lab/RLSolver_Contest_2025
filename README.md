@@ -19,7 +19,7 @@ It features three main components:
 - **Agents**: RL algorithms like REINFORCE, DQN, PPO, etc.
 - **Problems**: Graph Max-Cut, Ising Model, and more
 
-We host two competition tasks to encourage cross-disciplinary solutions across RL, optimization, and high-performance computing.
+We host two tasks to encourage cross-disciplinary solutions across RL, optimization, and high-performance computing.
 
 ## Task 1: Graph Max-Cut with Parallel RL Agents
 
@@ -67,4 +67,4 @@ Past related contests and resources:
 The website source files are in the `docs/` directory and are built using Jekyll + GitHub Pages.  
 To contribute updates to CFP content or tutorials, please submit a pull request.
 
-Website: [https://open-finance-lab.github.io/RLSolver_Competition_2025/](https://open-finance-lab.github.io/RLSolver_Competition_2025/)
+Website: [https://open-finance-lab.github.io/RLSolver_Contest_2025/](https://open-finance-lab.github.io/RLSolver_Contest_2025/)

@@ -26,7 +26,7 @@ weight: 1
 
 ### Thanks to the AI4Finance Foundation Open-Source Community support。
 
-#### Please find the starter kit [here](https://github.com/Open-Finance-Lab/RLSolver_Competition_2025)!
+#### Please find the starter kit [here](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025)!
 
 ## Introduction
 
@@ -39,7 +39,7 @@ RLSolver consists of three key components:
 - **Agents**: RL solvers like REINFORCE, DQN, etc.
 - **Problems**: Graph Max-Cut, Ising Model, and more.
 
-We design **two competition tasks** to promote GPU-powered RL optimization:
+We design **two tasks** to promote GPU-powered RL optimization:
 1. **Graph Max-Cut with Parallel RL Agents**
 2. **Ising Model Ground-State Estimation via MCMC-based RL**
 
