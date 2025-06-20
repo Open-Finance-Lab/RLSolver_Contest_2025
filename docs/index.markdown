@@ -26,6 +26,10 @@ weight: 1
 
 ### Thanks to the AI4Finance Foundation Open-Source Community support。
 
+#### Please find the [RLSolver Github Repo](https://github.com/Open-Finance-Lab/RLSolver)
+
+#### Please find the [RLSolver docs](https://rlsolvers.readthedocs.io/index.html)
+
 #### Please find the starter kit [here](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025)!
 
 ## Introduction
