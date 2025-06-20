@@ -30,7 +30,7 @@ weight: 1
 
 #### Please find the [RLSolver docs](https://rlsolvers.readthedocs.io/index.html)
 
-#### Please find the starter kit [here](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025)!
+#### Please find the starter kit [here](https://open-finance-lab.github.io/RLSolver_Contest_2025/)!
 
 ## Introduction
 
