@@ -9,7 +9,7 @@ weight: 4
 
 ## RLSolver Documentation
 
-For Task, feel free to explore the [RLSolver documentation](https://rlsolver-competition.readthedocs.io/en/latest/rlsolver_2025/competition/train_test.html) to learn about RLSolver.
+For Task, feel free to explore the [RLSolver documentation](https://rlsolver-competition.readthedocs.io/en/latest/rlsolver_contest_2025/train_test.html) to learn about RLSolver.
 
 
 
