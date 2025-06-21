@@ -8,29 +8,8 @@ weight: 1
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
   <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/ieee-logo.png?raw=true" alt="IEEE Logo">
   <img style="width: 20%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/columbiau.jpeg?raw=true" alt="Columbia Logo">
-  <img style="width: 20%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/idea.jpeg?raw=true" alt="Idea Logo">
 </div>
 
-## Media Partners 
-<div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
-  <!-- Wilmott Logo -->
-  <a href="https://wilmott.com/" target="_blank">
-      <img style="width: 80%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/Wilmott.jpg?raw=true" alt="Wilmott Logo">
-  </a>
-
-  <!-- Paris Machine Learning Logo (Same size as PyQuant News) -->
-  <a href="http://parismlgroup.org/" target="_blank">
-      <img style="width: 120%;" src="https://github.com/Open-Finance-Lab/FinRL_Contest_2025/blob/main/docs/assets/logos/paris_machine_learning_new.png?raw=true" alt="Paris Machine Learning Logo">
-  </a>
-</div>
-
-### Thanks to the AI4Finance Foundation Open-Source Community support。
-
-#### Please find the [RLSolver Github Repo](https://github.com/Open-Finance-Lab/RLSolver)
-
-#### Please find the [RLSolver docs](https://rlsolvers.readthedocs.io/index.html)
-
-#### Please find the starter kit [here](https://open-finance-lab.github.io/RLSolver_Contest_2025/)!
 
 ## Introduction
 
@@ -97,8 +76,8 @@ Minimize the total system energy across random initial configurations.
 Contact email: rlsolvercontest@outlook.com
 
 Contestants can communicate any questions on 
-* [Discord](https://discord.gg/RNYsEwcXVj).
-* WeChat Group:
+* [Discord](https://discord.gg/QekXz9V63p).
+* WeChat Group: TBA
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: left; gap: 1em; padding: 2em">
 </div>
 

@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Timeline and Registration
 permalink: /2-registration/
@@ -6,16 +6,14 @@ weight: 2
 ---
 
 ## Timeline
-* **Team Registration Begin**: August 15, 2025
-  
-  Registration link: TBD
-* **Starter-Kit Release**: TBD
-* **Paper Submission Deadline**: August  1, 2025
-* **Paper Notification**: August 8, 2025
-* **Paper Cemera Ready**: August 15, 2025
-* **Solution Submission Deadline**: August  1, 2025
-* **Winner Notification**: TBD
-* **Winner Announcement**: TBD
+* **Team Registration Begin**: TBA
+* **Starter-Kit Release**: TBA
+* **Paper Submission Deadline**: Aug 1, 2025
+* **Paper Notification**: Sept 1, 2025
+* **Paper Cemera Ready**: Oct 1, 2025
+* **Solution Submission Deadline**: Sept 15, 2025
+* **Winner Notification**: Oct 15, 2025
+* **Winner Announcement**: Nov 7-9, IEEE CS Cloud Conference
 
 <span style="color:blue;">(All deadlines are at 11:59pm EST on the specified date.)</span>
 
@@ -25,7 +23,7 @@ Winners will be invited to attend the conference and have the opportunity to pre
 ## Registration
 Team registration is done through the [form](TBD). Please ensure that all team members provide their full names, emails, institutions, and the team name. We encourage you to use your institutional email to register.
 
-The top winners of each task should register the [conference](TBD) and present their work in person or online at the conference. At least one author of each accepted paper should register the [conference](TBD). Winners or papers with “No Show” may be redacted. Participants will be required to agree to this requirement at the time of submission.
+The top winners of each task should register the [conference](https://www.cloud-conf.net/cscloud/2025/cscloud/index.html) and present their work in person or online at the conference. At least one author of each accepted paper should register the [conference](https://www.cloud-conf.net/cscloud/2025/cscloud/index.html). Papers with “No Show” may be redacted. Participants will be required to agree to this requirement at the time of submission.
 
 
 ## Rules
