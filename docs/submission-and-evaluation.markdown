@@ -31,6 +31,11 @@ Each team should submit short papers with 3 complimentary pages and up to 2 extr
 
 ## Evaluation
 
+#### Ranking rules
+Each team will be evaluated separately on each of the datasets according the task's metric, i.e., objective value. This metric will be averaged across all instances in the test dataset, resulting in an individual ranking for each dataset. 
+
+For example, for the task I, team A might obtain ranks 3, 8, 1 respectively in 3 datasets, while team B obtains ranks 2, 2, 15. Then, for each team those three ranks will be multiplied together to obtain the overall score of the team. For example, team A will obtain a score of 3x8x1=24 while team B obtains 2x2x15=60. The team with the lowest overall score wins.
+
 ### **Model Evaluation**:
 Submissions are assessed in two categories:
 #### 1. Distribution-wise Reinforcement Learning Methods
@@ -48,6 +53,8 @@ Submissions are assessed in two categories:
 | Conventional (non-RL)     | Running Time only        | Objective Value     |
 
 The model ranking will be determined by TBA.
+
+
 
 **Notes:**  
 - **Objective Value** is defined by the problem (higher is better unless stated otherwise).  
