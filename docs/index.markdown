@@ -15,7 +15,11 @@ weight: 1
 
 **RLSolver: GPU-based Massively Parallel Environments for Large-Scale Combinatorial Optimization (CO) Problems Using Reinforcement Learning**
 
-RLSolver aims to showcase the effectiveness of GPU-based massively parallel environments for solving large-scale combinatorial optimization problems with reinforcement learning (RL). With thousands of CUDA cores and tensor cores, the sampling speed is improved by 2–3 orders of magnitude over traditional CPU-based environments, which significantly enhances convergence speed and solution quality.
+RLSolver is an open-source RL-based solver for combinatorial optimization (CO) problems. RLSolver uses reinforcement learning (RL) or machine learning (ML) to automate the search process of combinatorial optimizations. It uses auto-regressive neural networks, auto-regressive graph neural networks (GNNs), or more powerful neural networks as the policy network. With the help of GPUs with thousands of CUDA cores and tensor cores, the sampling speed is improved by 2–3 orders of magnitude over traditional CPU-based environments, which significantly enhances convergence speed and solution quality.
+
+Two major challenges:
+1.	Scalable RL/ML algorithms are highly favorable. 
+2.	GPU-based simulation is the key to address the sampling bottleneck.
 
 RLSolver consists of three key components:
 - **Environments**: GPU-based massively parallel simulation for CO problems.
@@ -26,7 +30,7 @@ We design **two tasks** to promote GPU-powered RL optimization:
 1. **Graph Max-Cut with Parallel RL Agents**
 2. **Ising Model Ground-State Estimation via MCMC-based RL**
 
-We welcome researchers, students, and practitioners from optimization, RL, or GPU computing communities to participate!
+We welcome researchers, students, and practitioners from optimization, operations research (OR), RL/ML, or GPU computing communities to participate!
 
 
 ## Tasks
@@ -53,7 +57,7 @@ u v w         # edge from node u to v with weight w
 
 #### Goal
 
-Maximize the cut value using RL agents with batched training environments.
+Maximize the cut value using RL agents with multiple training environments.
 
 ---
 
