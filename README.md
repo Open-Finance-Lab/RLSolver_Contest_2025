@@ -1,13 +1,12 @@
 # RLSolver Contest 2025
 
-This repository contains the website content, starter materials, and track information for the **RLSolver Contest 2025**.
+This repository contains the website content and starter materials for the **RLSolver Contest 2025**.
 
 ## Outline
   - [Overview](#overview)
   - [Task 1: Graph Max-Cut with Parallel RL Agents](#task-1-graph-max-cut-with-parallel-rl-agents)
   - [Task 2: Ising Ground-State Estimation via RL-MCMC](#task-2-ising-ground-state-estimation-via-rl-mcmc)
-  - [Call for Papers: Special Track on RL for CO](#call-for-papers-special-track-on-rl-for-co)
-  - [Organizers](#organizers)
+  - [Paper Submission Requirements](#paper-submission-requirement)
   - [Resources](#resources)
 
 ## Overview
@@ -31,34 +30,26 @@ Starter kit coming soon.
 Estimate the ground state of Ising models using a reinforcement learning agent enhanced by MCMC sampling techniques.  
 Starter kit coming soon.
 
-## Call for Papers: Special Track on RL for CO
+## Paper Submission Requirements
+Each team should submit short papers with 3 complimentary pages and up to 2 extra pages, including all figures, tables, and references. The paper submission is through [the special track]() and should follow its instructions. Please include “RLSolver Contest Task 1/2” in your abstract.
 
-We invite submissions to our **Special Track: Reinforcement Learning for Combinatorial Optimization**, which welcomes original research that applies RL to CO problems. Topics include (but are not limited to):
-- Graph Max-Cut, Knapsack, ILP, and Number Partitioning
-- Ising models, quantum circuit search
-- Vehicle Routing, UAV Path Planning, Ridesharing
-- Supply Chain Management (SCM): production, inventory, logistics
-- Emerging trends in Quantum AI and generative RL
-
-The special track is designed to foster collaboration between the optimization, machine learning, and GPU computing communities.
-
-## Organizers
-
-See [Organizers Page](https://open-finance-lab.github.io/RLSolver_Contest_2025/organizers)  
-(Organizers list and affiliations are available on the website.)
 
 ## Resources
+[RLSolver Contest Documentation](https://rlsolver-competition.readthedocs.io/en/latest/rlsolver_contest_2025/train_test.html)
+
+RLSolver
+* [RLSolver Github Repo](https://github.com/Open-Finance-Lab/RLSolver)
+* [RLSolver docs](https://rlsolvers.readthedocs.io/index.html)
+
+RL4Ising
+* [RL4Ising Github Repo](https://github.com/Open-Finance-Lab/RL4Ising)
+* [RL4Ising docs](https://rl4ising-docs.readthedocs.io/en/latest/)
 
 Relevant repositories and datasets:
 * RLSolver Codebase (coming soon)
 * GPU simulation environments (CUDA-based)
 * Graph datasets (BA, ER, PL)
 * Ising model generator and reference solvers
-
-Past related contests and resources:
-* [FinRL Contest 2023](https://github.com/Open-Finance-Lab/FinRL_Contest_2023)
-* [FinRL Contest 2024](https://github.com/Open-Finance-Lab/FinRL_Contest_2024)
-* [FinRL-DeepSeek](https://github.com/benstaf/FinRL_DeepSeek)
 
 ---
 
