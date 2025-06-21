@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Submission and Evaluation
-permalink: /3-submission/
+permalink: /submission-and-evaluation/
 weight: 3
 ---
 
