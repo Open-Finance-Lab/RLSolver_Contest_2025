@@ -35,9 +35,9 @@ Each team should submit short papers with 3 complimentary pages and up to 2 extr
 
 Each team will be evaluated separately on each of the datasets according the task's metric, i.e., objective value. This metric will be averaged across all instances in the test dataset, resulting in an individual ranking for each dataset. 
 
-For example, for the task I, team A might obtain ranks 3, 8, 1 respectively in 3 datasets, while team B obtains ranks 2, 2, 15. Then, for each team those three ranks will be multiplied together to obtain the overall score of the team. For example, team A will obtain a score of 3x8x1=24 while team B obtains 2x2x15=60. The team with the lowest overall score wins.
+For example, for the task I, team A might obtain ranks 3, 8, 1 respectively in 3 datasets, while team B obtains ranks 2, 2, 15. Then, for each team those three ranks will be multiplied together to obtain the overall score of the team. For example, team A will obtain a score of 3x8x1=24 while team B obtains 2x2x15=60. 
 
-The objective value is the most important metric. If several teams have the same score of objective value, we will compare the inference time, and the team with the lowest score of inference time wins. 
+The team with the lowest overall score wins. The objective value is the most important metric. If several teams have the same score of objective value, we will compare the inference time, and the team with the lowest score of inference time wins. 
 
 ### **Model Evaluation**:
 Submissions are assessed in two categories:
