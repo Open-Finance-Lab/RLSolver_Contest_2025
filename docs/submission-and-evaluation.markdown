@@ -12,7 +12,7 @@ Please provide your solution to [TBD](). Each team can submit multiple times and
 Please submit the following three items:
 1. **Neural Network Components**: Include your model definition, training script, inference script, and any trained weights or checkpoints.
 2. **Code Packaging**: Provide all source files, a `requirements.txt` listing dependencies, and a brief `README.md` with setup and run instructions.
-3. **Result files**: Your output should be saved in a file called `result.txt` inside the `result/` folder. Each line represents the assignment of a node to one of two sets (for MaxCut):
+3. **Result files**: Your output should be saved in a file called `xxx.txt` inside the `result/` folder. Take rlsolver/data/syn_BA/BA_100_ID0.txt as an example, the output result file is rlsolver/result/syn_BA/BA_100_ID0.txt. Each line represents the assignment of a node to one of two sets (for MaxCut):
 
 ```
    1 2
