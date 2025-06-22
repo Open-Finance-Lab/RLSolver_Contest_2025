@@ -27,7 +27,7 @@ RLSolver consists of three key components:
 - **Problems**: Graph maxcut, Ising Model, and more.
 
 We design **two tasks** to promote GPU-powered RL optimization:
-1. **Graph Maxcut with Parallel RL Agents**
+1. **Graph Maxcut Using RL Agents**
 2. **Ising Model Ground-State Estimation via MCMC-based RL**
 
 We welcome researchers, students, and practitioners from optimization, operations research (OR), RL/ML, or GPU computing communities to participate!
