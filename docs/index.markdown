@@ -15,7 +15,7 @@ weight: 1
 
 **RLSolver: GPU-based Massively Parallel Environments for Large-Scale Combinatorial Optimization (CO) Problems Using Reinforcement Learning**
 
-RLSolver is an open-source RL-based solver for combinatorial optimization (CO) problems. RLSolver uses reinforcement learning (RL) or machine learning (ML) to automate the search process of combinatorial optimizations. It uses auto-regressive neural networks, auto-regressive graph neural networks (GNNs), or more powerful neural networks as the policy network. With the help of GPUs with thousands of CUDA cores and tensor cores, the sampling speed is improved, which significantly enhances convergence speed and solution quality.
+RLSolver is an open-source RL-based solver for combinatorial optimization (CO) problems. RLSolver uses reinforcement learning (RL) or machine learning (ML) to automate the search process of combinatorial optimizations. It uses auto-regressive neural networks, auto-regressive graph neural networks (GNNs), or more powerful neural networks (e.g., transformer) as the policy network. With the help of GPUs with thousands of CUDA cores and tensor cores, the sampling speed is improved, which significantly enhances convergence speed and solution quality.
 
 Two major challenges:
 1.	Scalable RL/ML algorithms are highly favorable. 
