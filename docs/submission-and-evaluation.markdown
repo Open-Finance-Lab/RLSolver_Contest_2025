@@ -39,7 +39,6 @@ For example, for the task I, team A might obtain ranks 3, 8, 1 respectively in 3
 
 The team with the lowest overall score wins. The objective value is the most important metric. If several teams have the same score of objective value, we will compare the inference time, and the team with the lowest score of inference time wins. 
 
-### **Model Evaluation**:
 Submissions are assessed in two categories:
 #### 1. Distribution-wise Reinforcement Learning Methods
 - **Training Time**: total time spent training across instances  
@@ -54,9 +53,6 @@ Submissions are assessed in two categories:
 |---------------------------|--------------------------|---------------------|
 | Distribution-wise RL      | Training + Inference     | Objective Value     |
 | Conventional (non-RL)     | Running Time only        | Objective Value     |
-
-The model ranking will be determined by TBA.
-
 
 
 **Notes:**  
