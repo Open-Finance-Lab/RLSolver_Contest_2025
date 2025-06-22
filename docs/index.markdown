@@ -24,7 +24,7 @@ Two major challenges:
 RLSolver consists of three key components:
 - **Environments**: GPU-based massively parallel environments for CO problems.
 - **Agents**: RL algorithms such as REINFORCE and DQN.
-- **Problems**: Graph maxcut, TSP, Ising Model, and more.
+- **Problems**: Graph maxcut, Ising Model, and more.
 
 We design **two tasks** to promote GPU-powered RL optimization:
 1. **Graph Maxcut with Parallel RL Agents**
