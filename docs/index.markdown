@@ -23,11 +23,11 @@ Two major challenges:
 
 RLSolver consists of three key components:
 - **Environments**: GPU-based massively parallel environments for CO problems.
-- **Agents**: RL algorithms like REINFORCE, DQN, etc.
-- **Problems**: Graph Max-Cut, Ising Model, and more.
+- **Agents**: RL algorithms such as REINFORCE and DQN.
+- **Problems**: Graph maxcut, TSP, Ising Model, and more.
 
 We design **two tasks** to promote GPU-powered RL optimization:
-1. **Graph Max-Cut with Parallel RL Agents**
+1. **Graph Maxcut with Parallel RL Agents**
 2. **Ising Model Ground-State Estimation via MCMC-based RL**
 
 We welcome researchers, students, and practitioners from optimization, operations research (OR), RL/ML, or GPU computing communities to participate!
@@ -37,7 +37,7 @@ We welcome researchers, students, and practitioners from optimization, operation
 
 Each team can choose to participate in one or both tasks. Awards and recognitions will be given for each task.
 
-### Task I: Graph Max-Cut
+### Task I: Graph Maxcut
 
 Develop reinforcement learning agents to solve Max-Cut problems on large graphs. Agents must be trained in a **distribution-wise** fashion across families of graphs, utilizing GPU-based environments for sampling.
 
