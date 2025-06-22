@@ -22,8 +22,8 @@ Two major challenges:
 2.	GPU-based simulation is the key to address the sampling bottleneck.
 
 RLSolver consists of three key components:
-- **Environments**: GPU-based massively parallel simulation for CO problems.
-- **Agents**: RL solvers like REINFORCE, DQN, etc.
+- **Environments**: GPU-based massively parallel environments for CO problems.
+- **Agents**: RL algorithms like REINFORCE, DQN, etc.
 - **Problems**: Graph Max-Cut, Ising Model, and more.
 
 We design **two tasks** to promote GPU-powered RL optimization:
