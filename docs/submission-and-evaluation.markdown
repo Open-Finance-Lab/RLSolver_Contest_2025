@@ -37,7 +37,7 @@ Each team will be evaluated separately on each of the datasets according the tas
 
 For example, for the task I, team A might obtain ranks 3, 8, 1 respectively in 3 datasets, while team B obtains ranks 2, 2, 15. Then, for each team those three ranks will be multiplied together to obtain the overall score of the team. For example, team A will obtain a score of 3x8x1=24 while team B obtains 2x2x15=60. 
 
-The team with the lowest overall score wins. The objective value is the most important metric. If several teams have the same score of objective value, we will compare the inference time, and the team with the lowest score of inference time wins. 
+The team with the lowest overall score wins. The objective value is the most important metric. If several teams have the same score of objective value, we will compare the inference time. 
 
 Submissions are assessed in two categories:
 #### 1. Distribution-wise Reinforcement Learning Methods
