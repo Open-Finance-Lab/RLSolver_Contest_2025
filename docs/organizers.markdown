@@ -20,7 +20,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/MingZhu.jpg" 
         alt="Ming Zhu"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -33,7 +33,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/keyi.jpeg" 
         alt="Keyi Wang"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -46,7 +46,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/supervisors/liu-xy.png" 
         alt="Xiao-Yang Liu"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -69,7 +69,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Zhiyuan.png" 
         alt="Zhiyuan Wang"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -81,7 +81,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Holden.png" 
         alt="Holden Mac Entee"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -93,7 +93,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/1.png" 
         alt="Levy Lin"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -116,7 +116,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Chunlin.jpg" 
         alt="Chunlin Feng"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -128,7 +128,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Xingjian.jpg" 
         alt="Luke Zhao"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -140,7 +140,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/1.png" 
         alt="Yupeng Chao"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
@@ -152,7 +152,7 @@ weight: 5
       <img 
         src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Linrui.jpg" 
         alt="Linrui Zhao"
-        style="width:120px; height:auto; border-radius:8px;"
+        style="width:200px; height:auto; border-radius:8px;"
       />
     </td>
     <td>
