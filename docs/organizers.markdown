@@ -114,7 +114,7 @@ weight: 5
   <tr>
     <td>
       <img 
-        src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Chunlin.png" 
+        src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Chunlin.jpg" 
         alt="Chunlin Feng"
         style="width:120px; height:auto; border-radius:8px;"
       />
@@ -126,7 +126,7 @@ weight: 5
   <tr>
     <td>
       <img 
-        src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Xingjian.png" 
+        src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/organizers/Xingjian.jpg" 
         alt="Luke Zhao"
         style="width:120px; height:auto; border-radius:8px;"
       />
