@@ -19,8 +19,8 @@ weight: 5
 
 | Photo                | Biography              |
 |----------------------|-------------------|
-| ![Zhiyuan Wang](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Zhiyuan Wang**, Rensselaer Polytechnic Institute|
-| ![Holden Mac Entee](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Holden Mac Entee**, Rensselaer Polytechnic Institute|
+| ![Zhiyuan Wang](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Zhiyuan.png?raw=true)      | **Zhiyuan Wang**, undergraduate at Rensselaer Polytechnic Institute. Passionate about machine learning and Transformer-based methods for solvers. Research Assistant at Tensor and Deep Learning Lab associated with Columbia University.|
+| ![Holden Mac Entee](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Holden.png?raw=true)      | **Holden Mac Entee**, bachelor's student at Rensselaer Polytechnic Institute. His interests include machine learning and software engineering, specifically in the financial discipline. He is a research assistant at Tensor and Deep Learning Lab, associated with Columbia University.|
 | ![Levy Lin](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Levy Lin**, Rensselaer Polytechnic Institute|
 
 
@@ -28,11 +28,7 @@ weight: 5
 
 | Photo                | Biography              |
 |----------------------|-------------------|
-| ![Chunlin Feng](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Chunlin Feng**, Rensselaer Polytechnic Institute|
-| ![Luke Zhao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Luke Zhao**, Rensselaer Polytechnic Institute|
-| ![Yupeng Chao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/yupeng_cao.png?raw=true)      | **Yupeng Chao**, current Ph.D. candidate in the Electrical and Computer Engineering Department at Stevens Institute of Technology. His research interests include Natural Language Processing (NLP), Multimodal, Trustworthy AI, and their application in the financial domain. He has several publications about multimodal, LLMs, and multi-agent in financial domains, including FinNLP workshop, ICAIF, ACL, and NeurIPS. He served as a PC member for the 9th FinNLP workshop and Session Chair @ACM ICAIF’24. He organized the Agent-Based Single Cryptocurrency Trading Challenge @COLING 2025. He also hosted the “TechFin” social event at NeurIPS 2024, with 100+ participants.|
-| ![Linrui Zhao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Linrui_Zhao.jpg?raw=true)      | **Linrui Zhao**, Sichuan University|
-
-
-
-
+| ![Chunlin Feng](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Chunlin.png?raw=true)      | **Chunlin Feng**, bachelor at Rensselaer Polytechnic Institute, with a research interest in reinforcement learning and its applications in finance, focusing on constructing RL environments.|
+| ![Luke Zhao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Xingjian.png?raw=true)      | **Luke Zhao**, current Ph.D. candidate in the Computer Science Department at Rensselaer Polytechnic Institute. His research interests include Reinforcement Learning, Machine Unlearning, and their application in the finance domain. Co-organizer of the open FinLLM leaderboard and the Regulations Challenge at COLING 2025.|
+| ![Yupeng Chao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true)      | **Yupeng Chao**, Stevens Institute of Technology|
+| ![Linrui Zhao](https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Linrui.jpg?raw=true)      | **Linrui Zhao**, Sichuan University|
