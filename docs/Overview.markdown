@@ -81,10 +81,14 @@ Contact email: rlsolvercontest@outlook.com
 
 Contestants can communicate any questions on 
 * [Discord](https://discord.gg/QekXz9V63p).
-* WeChat Group: TBA
-<div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: left; gap: 1em; padding: 2em">
-  <img style="width: 20%;" src="https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/tree/main/docs/assets/pictures/wechat_group.jpeg?raw=true" alt="wechat group">
+* WeChat Group: 
+<div style="text-align: center; display: flex; justify-content: center; padding: 2em;">
+  <img 
+    style="width: 20%;" 
+    src="https://raw.githubusercontent.com/Open-Finance-Lab/RLSolver_Contest_2025/main/docs/assets/pictures/wechat_group.jpg" 
+    alt="WeChat Group">
 </div>
+
 
 
 
