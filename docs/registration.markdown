@@ -6,7 +6,9 @@ weight: 2
 ---
 
 ## Timeline
-* **Team Registration Begin**: TBA
+* **Team Registration Begin**: Jun 27, 2025
+  
+  <span style="color:blue;">Register your team here: https://forms.gle/Njc4iXkgMfSKTHB59</span>
 * **Starter-Kit Release**: TBA
 * **Paper Submission Deadline**: Aug 1, 2025
 * **Paper Notification**: Sept 1, 2025
@@ -21,7 +23,7 @@ Winners will be invited to attend the conference and have the opportunity to pre
 
 
 ## Registration
-Team registration is done through the [form](TBD). Please ensure that all team members provide their full names, emails, institutions, and the team name. We encourage you to use your institutional email to register.
+Team registration is done through the [form](https://forms.gle/Njc4iXkgMfSKTHB59). Please ensure that all team members provide their full names, emails, institutions, and the team name. We encourage you to use your institutional email to register.
 
 The top winners of each task should register the [conference](https://www.cloud-conf.net/cscloud/2025/cscloud/index.html) and present their work in person or online at the conference. At least one author of each accepted paper should register the [conference](https://www.cloud-conf.net/cscloud/2025/cscloud/index.html). Papers with “No Show” may be redacted. Participants will be required to agree to this requirement at the time of submission.
 
