@@ -21,7 +21,7 @@ weight: 5
 |-------|-----------|
 | <img src="https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Zhiyuan.png?raw=true" alt="Zhiyuan Wang" width="450" style="border-radius:8px;" /> | **Zhiyuan Wang**, undergraduate at Rensselaer Polytechnic Institute. Passionate about machine learning and Transformer-based methods for solvers. Research Assistant at Tensor and Deep Learning Lab associated with Columbia University. |
 | <img src="https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/Holden.png?raw=true" alt="Holden Mac Entee" width="450" style="border-radius:8px;" /> | **Holden Mac Entee**, bachelor's student at Rensselaer Polytechnic Institute. His interests include machine learning and software engineering, specifically in the financial discipline. He is a research assistant at Tensor and Deep Learning Lab, associated with Columbia University. |
-| <img src="https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true" alt="Levy Lin" width="450" style="border-radius:8px;" /> | **Levy Lin**, Rensselaer Polytechnic Institute. |
+| <img src="https://github.com/Open-Finance-Lab/RLSolver_Contest_2025/blob/main/docs/assets/organizers/1.png?raw=true" alt="Levy Lin" width="450" style="border-radius:8px;" /> | **Levy Lin**, Levy Lin, bachelor’s student at Rensselaer Polytechnic Institute. His interests include machine learning and combinatorial optimization. Research assistant at  Colombia’s Tensor and Deep Learning Lab. |
 
 ---
 
