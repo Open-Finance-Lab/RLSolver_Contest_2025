@@ -81,6 +81,7 @@ Contact email: rlsolvercontest@outlook.com
 
 Contestants can communicate any questions on 
 * [Discord](https://discord.gg/QekXz9V63p).
+* QQ Group: 922523057
 * WeChat Group: 
 <div style="text-align: center; display: flex; justify-content: center; padding: 2em;">
   <img 
