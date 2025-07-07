@@ -17,6 +17,7 @@ This directory ships two reference RL solvers:
 python experiments/pre_trained_agent/test_eco.py
 
 -To test a different model or graph set, edit experiments/pre_trained_agent/test_eco.py:
+More models in the file of experiments/pre_trained_agent/networks
 
 network_save_loc = "experiments/pre_trained_agent/networks/eco/eco_best.pth"
 graph_save_loc   = "dataset/test_graphs/"
@@ -29,6 +30,7 @@ python experiments/pre_trained_agent/test_s2v.py
 
 -To test a different model or graph set, edit
 Inside test_s2v.py, adjust the paths:
+More models in the file of experiments/pre_trained_agent/networks
 
 network_save_loc = "experiments/pre_trained_agent/networks/s2v/s2v_best.pth"
 graph_save_loc   = "dataset/test_graphs/"  # or any graph directory
