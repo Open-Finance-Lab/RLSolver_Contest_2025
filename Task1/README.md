@@ -16,4 +16,8 @@ pip install numpy pandas matplotlib networkx torch numba pickle
 
 ## Other Method
 
-More info and methods can be found at <https://github.com/Open-Finance-Lab/RLSolver/tree/master?tab=readme-ov-file#methods>
+More info and methods can be found at <https://github.com/Open-Finance-Lab/RLSolver/tree/master?tab=readme-ov-file#methods>, which is in the rlsolver/methods folder. Among them, S2V-DQN and ECO-DQN are distribution-based reinforcement learning methods, and other methods can be used as baseline on instances.
+
+
+
+
