@@ -10,8 +10,8 @@ weight: 2
   
   <span style="color:blue;">Register your team [here](https://docs.google.com/forms/d/e/1FAIpQLScIOW2OJ9KFm1AqNFOvulJP6DcZq0YAcrYhtx6RBkbuQj99LA/viewform?usp=header)</span>
 * **Starter-Kit Release**: July 7, 2025
-* **Paper Submission Deadline**: Aug 1, 2025
-* **Paper Notification**: Sept 1, 2025
+* **Paper Submission Deadline**: Aug 31, 2025
+* **Paper Notification**: Sept 15, 2025
 * **Paper Cemera Ready**: Oct 1, 2025
 * **Solution Submission Deadline**: Sept 15, 2025
 * **Winner Notification**: Oct 15, 2025
